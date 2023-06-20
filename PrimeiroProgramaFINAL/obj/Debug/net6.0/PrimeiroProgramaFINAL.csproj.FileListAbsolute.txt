@@ -1,0 +1,15 @@
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\bin\Debug\net6.0\PrimeiroProgramaFINAL.exe
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\bin\Debug\net6.0\PrimeiroProgramaFINAL.deps.json
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\bin\Debug\net6.0\PrimeiroProgramaFINAL.runtimeconfig.json
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\bin\Debug\net6.0\PrimeiroProgramaFINAL.dll
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\bin\Debug\net6.0\PrimeiroProgramaFINAL.pdb
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.csproj.AssemblyReference.cache
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.AssemblyInfoInputs.cache
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.AssemblyInfo.cs
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.csproj.CoreCompileInputs.cache
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.dll
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\refint\PrimeiroProgramaFINAL.dll
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.pdb
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\PrimeiroProgramaFINAL.genruntimeconfig.cache
+C:\Users\flash\source\repos\PrimeiroProgramaFINAL\PrimeiroProgramaFINAL\obj\Debug\net6.0\ref\PrimeiroProgramaFINAL.dll
